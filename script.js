@@ -1,1 +1,16 @@
-//your code here
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<!-- the entire body must be written by student -->
+    <script type="text/javascript" src="./script.js">
+</script>
+
+</body>
+
+</html>
